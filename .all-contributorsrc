@@ -96,7 +96,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/1449435?v=4",
       "profile": "https://github.com/BrentChesny",
       "contributions": [
-        "code"
+        "code",
+        "doc"
       ]
     },
     {
@@ -143,7 +144,8 @@
       "profile": "https://github.com/uta-mori",
       "contributions": [
         "code",
-        "translation"
+        "translation",
+        "review"
       ]
     },
     {
@@ -352,6 +354,33 @@
       "profile": "https://www.linkedin.com/in/mahmud2011",
       "contributions": [
         "code"
+      ]
+    },
+    {
+      "login": "sywesk",
+      "name": "Benjamin Bourgeais",
+      "avatar_url": "https://avatars.githubusercontent.com/u/862607?v=4",
+      "profile": "http://blog.scaleprocess.net",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "8ayac",
+      "name": "8ayac(Yoshinori Hayashi)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29266382?v=4",
+      "profile": "https://about.8ay.ac/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "y-yagi",
+      "name": "y-yagi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/987638?v=4",
+      "profile": "https://github.com/y-yagi",
+      "contributions": [
+        "doc"
       ]
     }
   ],
